@@ -1,0 +1,4 @@
+Git is a version control system.
+Git is free software.
+Today is a happy day.
+The weather is sunny,the wind is gentle.
